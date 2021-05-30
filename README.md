@@ -5,7 +5,7 @@
 <h3>- Full-Stack & Mobile Developer  </h2>
 <br>
 
-![me](https://user-images.githubusercontent.com/31112762/120105415-6275d080-c11e-11eb-9baf-5c116f891493.png)
+![profile](https://user-images.githubusercontent.com/31112762/120108288-28123080-c12a-11eb-9e26-927113e6407c.png)
 
 <hr>
 <hr>
