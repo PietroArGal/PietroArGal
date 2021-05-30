@@ -1,3 +1,4 @@
-"# PietroArGal" 
+# 👋 Hello i am
+# Pietro Aramburú Gallardo 💖
 
-## Hello 💖
+### Full-Stack - Mobile Developer & Audiovisual Producer, Musician, and Computer Scientist.
