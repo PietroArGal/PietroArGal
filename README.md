@@ -1,7 +1,12 @@
-# 👋 Hello i am: Pietro Aramburú Gallardo 💖
+# 👋 Hello I Am: Pietro Aramburú Gallardo 💖
 
-### Full-Stack & Mobile Developer, Audiovisual Producer, Musician, and Computer Scientist.
+<h3>- Computer Scientist  </h2>
+<h3>- Audiovisual Producer  </h2>
+<h3>- Full-Stack & Mobile Developer  </h2>
+<br>
 
-- 💻 I’m a Computer Scientist (trying to get his doctorate)
-- 📱📲 I like to develop Multi Platform Apps
-- 🎹 I love music and I play almost every instruments
+![me](https://user-images.githubusercontent.com/31112762/120105415-6275d080-c11e-11eb-9baf-5c116f891493.png)
+
+<hr>
+<hr>
+<br>
