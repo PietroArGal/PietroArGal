@@ -5,7 +5,7 @@
 <h3>- Full-Stack & Mobile Developer  </h2>
 <br>
 
-![profile](https://user-images.githubusercontent.com/31112762/120108288-28123080-c12a-11eb-9e26-927113e6407c.png)
+Capoo - Bugcat
 
 <hr>
 <hr>
