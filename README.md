@@ -1,11 +1,8 @@
 # 👋 Hello I Am: Pietro Aramburú Gallardo 💖
 
 <h3>- Computer Scientist  </h2>
-<h3>- Audiovisual Producer  </h2>
 <h3>- Full-Stack & Mobile Developer  </h2>
 <br>
-
-Capoo - Bugcat
 
 <hr>
 <hr>
