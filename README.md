@@ -39,6 +39,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pietroargal&" alt="pietroargal" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroargal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories" alt="pietroargal" />
