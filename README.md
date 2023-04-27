@@ -41,4 +41,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroargal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=3&margin-w=15&margin-h=15" alt="pietroargal" />
+<img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories,Stars&column=3&margin-w=15&margin-h=15" alt="pietroargal" />
