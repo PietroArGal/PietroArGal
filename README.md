@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pietro Aramburú Gallardo 💖
 
-<h2 align="center">Computer Scientist & Full-stack Dev</h2>
+## Computer Scientist & Full-stack Dev
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=pietroargal&label=Profile%20views&color=0e75b6&style=flat" alt="pietroargal" /></p>
 
