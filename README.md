@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" alt="coding" width="410" height="410" src="https://github.com/PietroArGal/PietroArGal/blob/master/pmag2.png?raw=true">
+<img align="right" alt="coding" width="400" height="390" src="https://github.com/PietroArGal/PietroArGal/blob/master/pmag2.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20Views&color=f20736&style=flat" alt="ashutosh-pmishra" /> </p>
 
