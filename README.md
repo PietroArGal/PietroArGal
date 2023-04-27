@@ -2,9 +2,9 @@
 
 <h2 align="center">Computer Scientist & Full-stack Dev</h2>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories,Multilanguage&no-bg=true" alt="pietroargal" /></p></a></p>
-
 <br>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories,Multilanguage&no-bg=true" alt="pietroargal" /></p></a></p>
 
 - 🔭 I’m currently working on **Ryzemind**
 
@@ -17,7 +17,6 @@
 - ⚡ Fun fact **I'm play LoL & Overwatch**
 
 <hr>
-<br>
 
 <h3 align="center">Social Media:</h3>
 
@@ -33,8 +32,6 @@
 <br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=pietroargal&label=Profile%20views&color=0e75b6&style=flat" alt="pietroargal" /></p>
-
-<br>
 
 <hr>
 
