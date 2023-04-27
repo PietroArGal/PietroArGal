@@ -3,12 +3,9 @@
 <h1 align="center">Hi 👋, I'm Pietro Aramburú Gallardo 💖</h1>
 <h3 align="center">Computer Scientist & Full-stack Dev</h3>
 
-<center>
 <img src="https://komarev.com/ghpvc/?username=pietroargal&label=Profile%20views&color=0e75b6&style=flat" alt="pietroargal" />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories,Multilanguage&no-bg=true" alt="pietroargal" /></a>
-
- </center>
 
 - 🔭 I’m currently working on **Ryzemind**
 
@@ -23,7 +20,7 @@
 - ⚡ Fun fact **I'm play LoL & Overwatch**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/pietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pietromag" height="30" width="40" /></a>
 <a href="https://fb.com/pietroag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pietroag" height="30" width="40" /></a>
 <a href="https://instagram.com/pietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pietromag" height="30" width="40" /></a>
