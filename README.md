@@ -1,13 +1,14 @@
-# 👋 Hello I Am: 
-
-
+# 👋 Hello I Am:
 
 <h1 align="center">Hi 👋, I'm Pietro Aramburú Gallardo 💖</h1>
 <h3 align="center">Computer Scientist & Full-stack Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pietroargal&label=Profile%20views&color=0e75b6&style=flat" alt="pietroargal" /> </p>
+<center>
+<img src="https://komarev.com/ghpvc/?username=pietroargal&label=Profile%20views&color=0e75b6&style=flat" alt="pietroargal" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal" alt="pietroargal" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories,Multilanguage&no-bg=true" alt="pietroargal" /></a>
+
+ </center>
 
 - 🔭 I’m currently working on **Ryzemind**
 
