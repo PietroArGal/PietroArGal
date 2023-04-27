@@ -41,4 +41,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pietroargal&show_icons=true&locale=en&layout=compact" alt="pietroargal" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories&no-bg=true" alt="pietroargal" />
+<img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories" alt="pietroargal" />
