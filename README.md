@@ -4,15 +4,17 @@
 
 <h3 align="center">Computer Scientist & Full-stack Dev</h3>
 
+<br>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=14d5db&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 🔭 I’m currently working on **Ryzemind**
 
 - 🌱 I like to teach **Ask without fear**
 
-- 💬 My main technologies is **NextJs, React, NestJs, GraphQL, Kafka**
+- 💬 My "tech mains" is **NextJs, React, NestJs, GraphQL, Kafka**
 
 - 📫 How to reach me **pietromauag@gmail.com**
 
