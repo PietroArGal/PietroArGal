@@ -4,8 +4,6 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories,Multilanguage&no-bg=true" alt="pietroargal" /></p></a></p>
-
 - 🔭 I’m currently working on **Ryzemind**
 
 - 🌱 I like to teach **Ask without fear**
@@ -41,7 +39,8 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pietroargal&show_icons=true&locale=en&layout=compact" alt="pietroargal" /></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=onedark&title=Commits,Repositories,Multilanguage&no-bg=true" alt="pietroargal" /></p></a></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pietroargal&show_icons=true&locale=en&layout=compact" alt="pietroargal" /></p>
 
 <br>
 
