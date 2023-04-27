@@ -1,4 +1,4 @@
-![logo](https://github.com/PietroArGal/PietroArGal/blob/master/pmag1.png?raw=true)
+![logo](https://github.com/PietroArGal/PietroArGal/blob/master/pmag1.jpg?raw=true)
 
 <h1 align="center"> Hi 👋, I'm Pietro Aramburú Gallardo 💖</h1>
 
