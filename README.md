@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20Views&color=f20736&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 🔭 I’m currently working on **Neatlist**
+- 🔭 I’m currently working on **Aubiblio**
 
 - 🌱 I like to teach **Ask without fear**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pietromauag@gmail.com**
 
-- ⚡ Fun fact **I'm play LoL & Overwatch**
+- ⚡ Fun fact **I'm play LoL**
 
 <h3 align="left">Contact:</h3>
 
