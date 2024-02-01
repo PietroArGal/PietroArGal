@@ -1,5 +1,3 @@
-![width:260px](https://github.com/PietroArGal/PietroArGal/blob/master/bg1.jpg?raw=true)
-
 <h1 align="center"> Hi 👋, I'm Pietro Aramburú Gallardo 💖</h1>
 
 <h3 align="center">Computer Scientist & Full-stack Dev</h3>
