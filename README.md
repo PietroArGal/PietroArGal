@@ -2,10 +2,6 @@
 
 <h3 align="center">Computer Scientist / Cloud - Mobile - Backend</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20Views&color=f20736&style=flat" alt="ashutosh-pmishra" /> </p>
-
-<br>
-
 <h3 align="right">Contact:</h3>
 
 <p align="right">
@@ -18,6 +14,8 @@
 <br>
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20Views&color=f20736&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 🔭 I’m currently working on **BookTime a mobile audiobook app**
 
