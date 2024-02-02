@@ -20,6 +20,7 @@
 - 💬 My "tech mains" is **AWS, React / Native, Node, Kafka**</p>
 
 - 📫 How to reach me **pietroargal@gmail.com**</p>
+<br>
 
 <hr>
 
