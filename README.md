@@ -4,10 +4,6 @@
 
 <br>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
-
-<br>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20Views&color=f20736&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <br><br>
@@ -20,6 +16,10 @@
 <a href="https://instagram.com/iampietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pietromag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pietromag" height="30" width="40" /></a>
 </p>
+
+<br><br>
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
 - 🔭 I’m currently working on **BookTime a mobile audiobook app**
 
