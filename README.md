@@ -13,15 +13,13 @@
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
-<p align="left"> - 🔭 I’m currently working on **BookTime a mobile audiobook app**</p>
+- 🔭 I’m currently working on **BookTime a mobile audiobook app**</p>
 
-<p align="left"> - 🌱 I like to teach **Ask without fear**</p>
+- 🌱 I like to teach **Ask without fear**</p>
 
-<p align="left"> - 💬 My "tech mains" is **AWS, React / Native, Node, Kafka**</p>
+- 💬 My "tech mains" is **AWS, React / Native, Node, Kafka**</p>
 
-<p align="left"> - 📫 How to reach me **pietroargal@gmail.com**</p>
-
-<p align="left"> - ⚡ Fun fact **I'm play LoL**</p>
+- 📫 How to reach me **pietroargal@gmail.com**</p>
 
 <hr>
 
