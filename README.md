@@ -2,6 +2,7 @@
 
 <h3 align="center">Computer Scientist / Cloud - Mobile - Backend</h3>
 
+<br>
 
 <p align="right">
 <a href="https://linkedin.com/in/pietromag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pietromag" height="30" width="40" /></a>
@@ -9,8 +10,6 @@
 <a href="https://instagram.com/iampietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pietromag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pietromag" height="30" width="40" /></a>
 </p>
-
-<br>
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
