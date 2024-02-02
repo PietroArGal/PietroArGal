@@ -4,6 +4,8 @@
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
+<br>
+
 <h3 align="right">Contact:</h3>
 
 <p align="right">
