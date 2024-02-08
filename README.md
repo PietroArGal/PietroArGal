@@ -32,4 +32,4 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=PietroArGal&theme=gruvbox&hide_border=true&exclude_days=Sun%2CSat&card_width=490&fire=EB378A&ring=4DCEBD)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroargal&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroargal&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
