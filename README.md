@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/pietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pietromag" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=radical&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=gruvbox&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
 - 🔭 I’m currently working on **BookTime a mobile audiobook app**</p>
 
@@ -30,6 +30,6 @@
 
 <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=PietroArGal&theme=radical&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PietroArGal&theme=gruvbox&hide_border=true&exclude_days=Sun%2CSat&card_width=490&fire=EB378A&ring=4DCEBD)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroargal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroargal&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
