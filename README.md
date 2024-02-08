@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/pietromag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pietromag" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=gruvbox&hide_border=true&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=gruvbox&no-frame=true&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
 - 🔭 I’m currently working on **BookTime a mobile audiobook app**</p>
 
