@@ -13,7 +13,7 @@
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=pietroargal&theme=gruvbox&no-frame=true&title=Commits,Repositories&column=2&margin-w=10&margin-h=10" alt="pietroargal" />
 
-- 🔭 I’m currently working on **BookTime a mobile audiobook app**</p>
+- 🔭 I’m currently working on **Xplain a mobile AI app**</p>
 
 - 🌱 I like to teach **Ask without fear**</p>
 
